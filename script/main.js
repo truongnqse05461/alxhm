@@ -304,4 +304,5 @@ const resolveFetch = () => {
 
 window.open("https://on.soundcloud.com/eec96");
 
-resolveFetch().then(animationTimeline());
+// resolveFetch().then(animationTimeline());
+animationTimeline()
